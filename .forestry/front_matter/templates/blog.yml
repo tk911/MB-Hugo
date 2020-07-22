@@ -8,7 +8,7 @@ fields:
   default: default
 - name: author
   type: select
-  default: []
+  default: ''
   config:
     required: false
     options: []
@@ -19,18 +19,22 @@ fields:
       path: authors
   label: Author
   description: Choose author here, add new authors in Authors List
+  hidden: true
 - type: datetime
   name: date
   label: Date
+  default: now
 - type: text
   name: type
   label: type
   default: blog
-  hidden: false
+  hidden: true
 - type: file
   name: hero
   label: Hero Image
 pages:
 - content/blog-posts/Walking.md
+- content/blog-posts/default.html
 - content/blog-posts/geneology-of-morals.md
 - content/blog-posts/sunflower-sutra.md
+- content/blog-posts/tests/default.html
