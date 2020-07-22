@@ -1,6 +1,6 @@
 +++
 author = ""
-date = 2020-07-22T14:17:13Z
+date = 2021-07-22T14:17:00Z
 hero = "/images/screenshots/zUJ1rpA.jpeg"
 title = "Willkommen auf Alles Multi"
 type = "blog"
