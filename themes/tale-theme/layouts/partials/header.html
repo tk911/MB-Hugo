@@ -1,11 +1,10 @@
 <!-- Navleiste -->
 {{ $bg2 := .Site.Data.Settings.colors.nav_back}}
 {{ $textColor2 := .Site.Data.Settings.colors.nav_font}}
-		<nav class="nav" style="background-color: {{ $bg2 }}; color: {{ $textColor2 }};">
+		<nav class="nav">
 			<div class="nav-container">
 				<a href="{{ "/" | relURL }}">
 					<h1 class="nav-title">{{ .Site.Title }}</h1>
-					<h1 class="nav-title2">{{ .Site.Data.Settings.colors.nav_font }}</h1>
 				</a>
 				<!-- {{ partial "header-menu.html" . }} -->
 			</div>
