@@ -16,13 +16,13 @@ weight = 10
 #### <p style="color:#a335ee">Was wird benötigt um mit dem Multiboxing anzufangen?</p>
 
 * Ein Spiel das ihr Multiboxen wollt, hier wird davon ausgegangen das es sich bei diesem Spiel um World of Warcraft handelt.
-* Ein Programm das ein das Multiboxen ermöglicht, hier wird ausschließlich <a href="https://isboxer.com/" style="color:Orange;"><ins>Isboxer</ins></a> verwendet.
+* Ein Programm das ein das Multiboxen ermöglicht, hier wird ausschließlich <a href="https://isboxer.com/" style="color:#ff8000;"><ins>Isboxer</ins></a> verwendet.
 
 ***
 
 #### <p style="color:#0070dd">Weitere Hilfsmittel zum Multiboxing </p>
 
-* Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" style="color:Orange;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht mehr weiter Entwickelt.
+* Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" style="color:##ff8000;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht mehr weiter Entwickelt.
 * 
 
 ***
