@@ -2,3 +2,8 @@ primary_color = "#B1BCBC"
 site_background_color = "#1F1F1F"
 site_text_color = "#F1F1F1"
 text_color = "#ebebeb"
+[colors]
+main_back = "#312C2C"
+main_font = "#F1DEDE"
+nav_back = "#C62E2E"
+nav_font = "#F2E6E6"
