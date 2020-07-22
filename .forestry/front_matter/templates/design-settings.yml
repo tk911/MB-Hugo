@@ -4,47 +4,18 @@ hide_body: true
 fields:
 - name: primary_color
   type: color
-  label: Info Page - Background Color
+  label: Background Color
   config:
     required: false
     color_format: Hex
-  description: Adjust the background color of the info page
+  description: Adjust the background color
   default: "#B1BCBC"
 - name: text_color
   type: color
-  label: Info Page - Text Color
+  label: Text Color
   config:
     required: false
     color_format: Hex
-  description: Enter text color for info page
-- name: colors
-  type: field_group
-  config: {}
-  fields:
-  - name: nav_back
-    type: color
-    label: nav back
-    config:
-      required: false
-      color_format: Hex
-  - name: nav_font
-    type: color
-    label: nav font
-    config:
-      required: false
-      color_format: Hex
-  - name: main_back
-    type: color
-    label: main back
-    config:
-      required: false
-      color_format: Hex
-  - name: main_font
-    type: color
-    label: main font
-    config:
-      required: false
-      color_format: Hex
-  label: colors
+  description: Enter text color
 pages:
 - themes/tale-theme/data/Settings.toml
