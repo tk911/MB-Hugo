@@ -7,3 +7,6 @@ type = "blog"
 weight = 10
 
 +++
+<p>Flour
+Cheese
+Tomatoes</p>
