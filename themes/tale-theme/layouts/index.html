@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-<main>
+{{ $bg := .Site.Data.Settings.colors.main_back}}
+{{ $textColor := .Site.Data.Settings.colors.main_font}}
+<main style="background-color: {{ $bg }}; color: {{ $textColor }};">
 	<div class="catalogue">
 		{{ $aboutTitle := "About" }}
 			{{ range .Pages }}
