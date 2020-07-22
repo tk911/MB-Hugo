@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 1200px;
   width: 80%;
 }
 
@@ -27,7 +27,7 @@
   // }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
   .nav {
     height: 100vh;
     position: fixed;
@@ -50,6 +50,5 @@
     margin-left: 8%;
     margin-right: 30%;
   }
-  
-}
 
+}
