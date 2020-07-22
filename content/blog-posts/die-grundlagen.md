@@ -12,7 +12,7 @@ Hier findest du unsere Sammlung an Videos und Guides für Einsteiger zum Thema M
 Was wird benötigt um mit dem Multiboxing anzufangen?
 
 * Ein Spiel das ihr Multiboxen wollt, hier wird davon ausgegangen das es sich bei diesem Spiel um World of Warcraft handelt.
-* Ein Programm das ein das Multiboxen ermöglicht, hier wird ausschließlich Isboxer verwendet.
+* Ein Programm das ein das Multiboxen ermöglicht, hier wird ausschließlich [Isboxer](https://isboxer.com/) verwendet.
 
 Weitere Hilfreiche Hilfsmittel die uns beim Multiboxing helfen?
 
