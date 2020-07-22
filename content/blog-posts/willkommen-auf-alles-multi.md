@@ -2,7 +2,7 @@
 author = ""
 date = 2020-07-20T15:35:22Z
 hero = "/images/screenshots/zUJ1rpA.jpeg"
-title = "Willkommen auf Alles Multi"
+title = "[PH] Willkommen auf Alles Multi"
 type = "blog"
 weight = 1
 
