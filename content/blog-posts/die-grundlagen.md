@@ -7,7 +7,9 @@ type = "blog"
 weight = 10
 
 +++
-#### Hier findest du unsere Sammlung an deutschen Videos und Guides für Einsteiger zum Thema Multiboxing mit Isboxer.
+#### Hier findest du eine Einleitung die dir beim Einstieg helfen und eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit Isboxer.
+
+##### 
 
 ***
 
@@ -18,7 +20,7 @@ weight = 10
 
 ***
 
-#### <p style="color:#0070dd">Weitere Hilfreiche Hilfsmittel die uns beim Multiboxing helfen?</p>
+#### <p style="color:#0070dd">Weitere Hilfsmittel zum Multiboxing ?</p>
 
 * Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" style="color:Orange;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht mehr weiter Entwickelt.
 * 
