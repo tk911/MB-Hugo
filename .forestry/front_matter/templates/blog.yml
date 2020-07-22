@@ -8,7 +8,7 @@ fields:
   default: default
 - name: author
   type: select
-  default: Alles Multi Editor
+  default: ''
   config:
     required: false
     options: []
@@ -19,6 +19,7 @@ fields:
       path: authors
   label: Author
   description: Choose author here, add new authors in Authors List
+  hidden: true
 - type: datetime
   name: date
   label: Date
