@@ -5,7 +5,7 @@ fields:
 - type: text
   name: title
   label: Title
-  default: default
+  default: Neuer Artikel
 - name: author
   type: select
   default: ''
