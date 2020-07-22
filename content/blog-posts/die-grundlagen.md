@@ -22,7 +22,7 @@ weight = 10
 
 #### <p style="color:#0070dd">Weitere Hilfsmittel zum Multiboxing </p>
 
-* Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" style="color:##ff8000;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht mehr weiter Entwickelt.
+* Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" style="color:#ff8000;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht mehr weiter Entwickelt.
 * 
 
 ***
