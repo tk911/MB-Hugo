@@ -34,6 +34,7 @@ fields:
   label: Hero Image
 pages:
 - content/blog-posts/Walking.md
+- content/blog-posts/die-grundlagen.md
 - content/blog-posts/geneology-of-morals.md
 - content/blog-posts/sunflower-sutra.md
 - content/blog-posts/willkommen-auf-alles-multi.md
