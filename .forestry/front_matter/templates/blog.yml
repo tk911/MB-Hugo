@@ -35,7 +35,7 @@ fields:
 - name: weight
   type: number
   label: weight
-  description: ''
+  description: Lower Number, Higher Ranked (Up) never go under 2
   default: 10
   required: true
   config:
