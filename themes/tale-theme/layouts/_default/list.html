@@ -1,8 +1,10 @@
 {{ define "main" }}
 
 <main >
-		<div class="catalogue">	<!--test2-->
-				{{ range .Pages.ByDate.Reverse }}
+		<div class="catalogue">
+			<div id="testlist">
+			</div>
+				{{ range .Pages.ByWeight }}
 						{{ .Render "summary" }}
 				{{ end }}
 			</div>
