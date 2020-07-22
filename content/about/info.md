@@ -8,6 +8,7 @@ contact_info:
   email: ''
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
+  discord: https://discord.com/invite/EB7DXmH
 type: ''
 
 ---
