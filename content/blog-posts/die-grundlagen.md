@@ -7,7 +7,7 @@ type = "blog"
 weight = 10
 
 +++
-#### Hier findest du eine Einleitung die dir beim Einstieg helfen und eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit Isboxer.
+#### Hier findest du eine Einleitung die dir beim Einstieg hilft und eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit Isboxer.
 
 ##### 
 
