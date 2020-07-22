@@ -27,12 +27,11 @@ weight = 10
 
 ***
 
-#### Setup Videos: <button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/Hide</button>
+#### Setup Videos: <button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none'){document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') 								.style.display='none'}">Anzeigen/Verstecken</button>
 <div id="spoiler" style="display:none">
+  <iframe title="Seancool Setup" width="760" height="540" src="https://www.youtube.com/embed/V-3b3GyVZsM" frameborder="0" allow="accelerometer; 	autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe title="Seancool Setup" width="760" height="540" src="https://www.youtube.com/embed/V-3b3GyVZsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe title="Termi Setup part1" width="760" height="540" src="https://www.youtube.com/embed/2V9tXIgRqZE" frameborder="0" allow="accelerometer; 		autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe title="Termi Setup part1" width="760" height="540" src="https://www.youtube.com/embed/2V9tXIgRqZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe title="Termi Setup part2" width="760" height="540" src="https://www.youtube.com/embed/w6CcpfHyg2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe title="Termi Setup part2" width="760" height="540" src="https://www.youtube.com/embed/w6CcpfHyg2Y" frameborder="0" allow="accelerometer; 		autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
