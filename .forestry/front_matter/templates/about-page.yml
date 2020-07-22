@@ -22,11 +22,11 @@ fields:
     config:
       required: false
     label: discord
-  - name: Github
+  - name: github
     type: text
     config:
       required: false
-    label: github_handle
+    label: github
   - name: email
     type: text
     config:
