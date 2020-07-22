@@ -17,5 +17,17 @@ fields:
     required: false
     color_format: Hex
   description: Enter text color for info page
+- name: site_background_color
+  type: color
+  label: Site Background Color
+  config:
+    required: false
+    color_format: Hex
+- name: site_text_color
+  type: color
+  label: Site Text Color
+  config:
+    required: false
+    color_format: Hex
 pages:
 - themes/tale-theme/data/Settings.toml
