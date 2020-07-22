@@ -14,8 +14,7 @@ weight = 10
 #### Was wird benötigt um mit dem Multiboxing anzufangen?
 
 * Ein Spiel das ihr Multiboxen wollt, hier wird davon ausgegangen das es sich bei diesem Spiel um World of Warcraft handelt.
-* Ein Programm das ein das Multiboxen ermöglicht, hier wird ausschließlich <a href="https://isboxer.com/" target="_parent">Isboxer</a> verwendet.
-
+* Ein Programm das ein das Multiboxen ermöglicht, hier wird ausschließlich <a href="https://isboxer.com/" target="_parent"><ins>Isboxer</ins></a> verwendet.
 
 ***
 
