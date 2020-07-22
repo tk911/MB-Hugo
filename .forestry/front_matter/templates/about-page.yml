@@ -33,5 +33,3 @@ fields:
       required: false
     label: email
   label: contact_info
-pages:
-- content/about/info.md

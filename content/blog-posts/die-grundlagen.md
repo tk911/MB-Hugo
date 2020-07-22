@@ -7,4 +7,4 @@ type = "blog"
 weight = 10
 
 +++
-<iframe width="560" height="315" src="[https://www.youtube-nocookie.com/embed/V-3b3GyVZsM](https://www.youtube-nocookie.com/embed/V-3b3GyVZsM "https://www.youtube-nocookie.com/embed/V-3b3GyVZsM")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="[https://www.youtube.com/embed/V-3b3GyVZsM](https://www.youtube.com/embed/V-3b3GyVZsM "https://www.youtube.com/embed/V-3b3GyVZsM")" frameborder="0" allow="accelerometer; autoplay; encrypted-media" allowfullscreen></iframe>
