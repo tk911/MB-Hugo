@@ -1,9 +1,9 @@
 {{ define "main" }}
 
 <main>
-	<div class="catalogue">
+	<div class="catalogue"> <!--test-->
 		{{ $aboutTitle := "About" }}
-			{{ range .Pages }}
+			{{ range .Pages.ByDate.Reverse }}
 				{{if not (eq .Title $aboutTitle) }}
 					{{ .Render "summary" }}
 				{{end}}

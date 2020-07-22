@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}">
     {{ partial "head.html" . }}
-    {{ $aboutTitle := "About" }}
-    {{ $bg := .Site.Data.Settings.primary_color}}
-    {{ $textColor := .Site.Data.Settings.text_color}}
     <body style="background-color: {{ .Site.Data.Settings.primary_color }}; color: {{ .Site.Data.Settings.text_color }};">
         {{ partial "header.html" . }}
         {{ block "main" . }}{{ end }}
