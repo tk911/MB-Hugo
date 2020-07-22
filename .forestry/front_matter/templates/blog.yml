@@ -8,7 +8,7 @@ fields:
   default: default
 - name: author
   type: select
-  default: []
+  default: Alles Multi Editor
   config:
     required: false
     options: []
