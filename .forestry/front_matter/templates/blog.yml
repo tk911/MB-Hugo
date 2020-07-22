@@ -22,11 +22,12 @@ fields:
 - type: datetime
   name: date
   label: Date
+  default: now
 - type: text
   name: type
   label: type
   default: blog
-  hidden: false
+  hidden: true
 - type: file
   name: hero
   label: Hero Image
