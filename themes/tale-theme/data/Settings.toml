@@ -1,7 +1,7 @@
-primary_color = "#B1BCBC"
+primary_color = "#1F1F1F"
 site_background_color = "#1F1F1F"
 site_text_color = "#F1F1F1"
-text_color = "#ebebeb"
+text_color = "#F1F1F1"
 [colors]
 main_back = "#000000"
 main_font = "#FFFFFF"
