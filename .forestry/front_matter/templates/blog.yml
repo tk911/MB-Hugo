@@ -24,14 +24,9 @@ fields:
   name: date
   label: Date
   default: now
-- type: text
-  name: type
-  label: type
-  default: blog
-  hidden: true
-- type: file
-  name: hero
-  label: Hero Image
+  config:
+    date_format: DD/MM/YYYY
+    time_format: hh:mm
 - name: weight
   type: number
   label: weight
@@ -42,6 +37,14 @@ fields:
     min: 
     max: 
     step: 
+- type: text
+  name: type
+  label: type
+  default: blog
+  hidden: true
+- type: file
+  name: hero
+  label: Hero Image
 pages:
 - content/blog-posts/Walking.md
 - content/blog-posts/die-grundlagen.md
