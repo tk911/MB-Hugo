@@ -3,7 +3,7 @@ title: On the Genealogy of Morals
 date: 2019-08-16T19:15:34.000+00:00
 type: blog
 author: Friedrich Nietzsche
-hero: "/images/946302.png"
+hero: "/images/screenshots/yay3Dmi.jpeg"
 weight: 10
 draft: true
 
