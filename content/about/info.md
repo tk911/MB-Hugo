@@ -6,7 +6,8 @@ type: ''
 contact_info:
   discord: https://discord.com/invite/EB7DXmH
   Github: tk911
-  email: tk911Tutorials@gmail.com
+  email: ''
+  github: ''
 
 ---
 ## Diese Seite ist mit [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG") erstellt.
