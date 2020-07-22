@@ -20,7 +20,7 @@ weight = 10
 
 #### Weitere Hilfreiche Hilfsmittel die uns beim Multiboxing helfen?
 
-* Ein Addon das euch im Spiel aushilft wäre [EMA](https://www.curseforge.com/wow/addons/ema), an einigen stellen wird euch Jamba Empfohlen, Jamba ist eine Veraltete Version und wird nicht mehr weiter Entwickelt.
+* Ein Addon das euch im Spiel aushilft wäre [EMA](https://www.curseforge.com/wow/addons/ema), an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht mehr weiter Entwickelt.
 * 
 
 ***
