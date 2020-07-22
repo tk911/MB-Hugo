@@ -13,16 +13,5 @@ fields:
   label: type
   default: about
   hidden: true
-- name: contact_info
-  type: field_group
-  config: {}
-  fields:
-  - name: discord
-    type: text
-    config:
-      required: false
-    label: Discord
-  label: contact info
-  description: Enter contact info here
 pages:
 - content/about/info.md
