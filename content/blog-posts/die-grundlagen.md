@@ -8,7 +8,7 @@ type = "blog"
 weight = 10
 
 +++
-#### Hier findest du eine Einleitung die dir beim Einstieg hilft, sowie eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit <a href="" style="color:#ff8000">Isboxer</a>.
+#### Hier findest du eine Einleitung die dir beim Einstieg hilft, sowie eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit <p href="" style="color:#ff8000">Isboxer</a>.
 
 ##### 
 
