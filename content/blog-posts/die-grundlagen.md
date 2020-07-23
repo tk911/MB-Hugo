@@ -8,7 +8,7 @@ type = "blog"
 weight = 10
 
 +++
-#### Hier findest du eine Einleitung die dir beim Einstieg hilft, sowie eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit Isboxer.
+#### Hier findest du eine Einleitung die dir beim Einstieg hilft, sowie eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit <a href="" syle="color:#ff8000">Isboxer</a>.
 
 ##### 
 
@@ -18,13 +18,7 @@ weight = 10
 
 * Ein Spiel das ihr Multiboxen wollt, hier wird davon ausgegangen das es sich bei diesem Spiel um World of Warcraft handelt.
 * Ein Programm das ein das Multiboxen ermöglicht, hier wird ausschließlich <a href="https://isboxer.com/" style="color:#ff8000;"><ins>Isboxer</ins></a> verwendet.
-
-***
-
-#### <p style="color:#0070dd">Weitere Hilfsmittel zum Multiboxing </p>
-
 * Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" style="color:#ff8000;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht weiterentwickelt.
-* 
 
 ***
 
