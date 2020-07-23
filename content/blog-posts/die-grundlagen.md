@@ -23,7 +23,7 @@ weight = 10
 
 ***
 
-#### <a style="color:#a335ee">Wie genau fangen wir jetzt an?</a>
+
 
 #### Setup Videos: <button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none'){document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') 								.style.display='none'}">Anzeigen/Verstecken</button>
 
