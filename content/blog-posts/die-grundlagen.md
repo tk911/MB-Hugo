@@ -1,13 +1,14 @@
 +++
 author = ""
 date = 2020-07-22T16:29:54Z
+draft = true
 hero = "/images/screenshots/wgeuLqD.jpeg"
 title = "Der Einstieg"
 type = "blog"
 weight = 10
 
 +++
-#### Hier findest du eine Einleitung die dir beim Einstieg hilft. Sowie eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit Isboxer.
+#### Hier findest du eine Einleitung die dir beim Einstieg hilft, sowie eine Sammlung an deutschen Videos und Guides zum Thema Multiboxing mit Isboxer.
 
 ##### 
 
@@ -22,7 +23,7 @@ weight = 10
 
 #### <p style="color:#0070dd">Weitere Hilfsmittel zum Multiboxing </p>
 
-* Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" style="color:#ff8000;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht mehr weiter Entwickelt.
+* Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" style="color:#ff8000;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht weiterentwickelt.
 * 
 
 ***
