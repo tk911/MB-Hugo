@@ -36,7 +36,4 @@ weight = 10
 </div>
 
 ***
-abc
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tk911-21&language=de_DE&marketplace=amazon&region=DE&placement=B07KGLWY64&asins=B07KGLWY64&linkId=589240f28ef56cf87a857e3c11f8d18c&show_border=true&link_opens_in_new_window=true"></iframe>
-<a href="https://www.amazon.de/gp/product/B07KGLWY64/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=tk911-21&linkId=e9216d1b245faa8664d598c0eccc0534&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KGLWY64&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=tk911-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=tk911-21&language=de_DE&l=li2&o=3&a=B07KGLWY64" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-https://amzn.to/2CWo2ZX
+<a href="https://www.amazon.de/gp/product/B07KGLWY64/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=tk911-21&linkId=0dfef982baf0a144db5160f27f294b8b&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KGLWY64&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=tk911-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=tk911-21&language=de_DE&l=li3&o=3&a=B07KGLWY64" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
