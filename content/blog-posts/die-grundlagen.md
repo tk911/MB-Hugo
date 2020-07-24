@@ -36,4 +36,3 @@ weight = 10
 </div>
 
 ***
-<a href="https://www.amazon.de/gp/product/B07KGLWY64/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=tk911-21&linkId=0dfef982baf0a144db5160f27f294b8b&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KGLWY64&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=tk911-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=tk911-21&language=de_DE&l=li3&o=3&a=B07KGLWY64" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
