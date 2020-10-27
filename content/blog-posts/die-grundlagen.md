@@ -1,6 +1,6 @@
 +++
 author = ""
-date = 2020-07-22T16:29:54Z
+date = ""
 draft = true
 hero = "/images/screenshots/wgeuLqD.jpeg"
 title = "Der Einstieg"
