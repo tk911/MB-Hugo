@@ -9,6 +9,8 @@ weight = 1
 +++
 # DIESE SEITE BEFINDET SICH IM AUFBAU
 
-### Diese Seite soll als Anlauf und Sammelstelle zum Thema Multiboxing in World of Warcraft dienen.
+***
 
-### Hier werden Informationen aus allen Ecken des Internets zusammen getragen und aufbereitet um es Multiboxern und denen die es vorhaben zu werden unter die Arme zu greifen.
+#### Diese Seite soll als Anlauf und Sammelstelle zum Thema Multiboxing in World of Warcraft dienen.
+
+#### Hier werden Informationen aus allen Ecken des Internets zusammen getragen und aufbereitet um es Multiboxern und denen die es vorhaben zu werden unter die Arme zu greifen.
