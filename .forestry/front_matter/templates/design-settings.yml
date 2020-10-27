@@ -17,5 +17,6 @@ fields:
     required: false
     color_format: Hex
   description: Enter text color
+  default: "#ffffff"
 pages:
 - themes/tale-theme/data/Settings.toml
