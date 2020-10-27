@@ -1,7 +1,6 @@
 +++
 author = ""
 date = ""
-draft = true
 hero = "/images/screenshots/wgeuLqD.jpeg"
 title = "Der Einstieg"
 type = "blog"
