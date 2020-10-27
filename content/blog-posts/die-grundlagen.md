@@ -1,6 +1,6 @@
 +++
 author = ""
-date = ""
+date = 2020-10-26T23:00:00Z
 hero = "/images/screenshots/wgeuLqD.jpeg"
 title = "Der Einstieg"
 type = "blog"
