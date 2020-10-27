@@ -12,8 +12,6 @@ weight = 10
 
 ##### 
 
-***
-
 ### <p style="color:#a335ee">Was wird benötigt um mit dem Multiboxing anzufangen?<p style="color:#a335ee">
 
 * Ein Spiel das ihr Multiboxen wollt, hier wird davon ausgegangen das es sich bei diesem Spiel um World of Warcraft handelt.
@@ -21,7 +19,6 @@ weight = 10
 * Ein Addon das euch im Spiel aushilft wäre <a href="https://www.curseforge.com/wow/addons/ema" target="_blank" style="color:#ff8000;"><ins>EMA</ins></a>, an einigen stellen wird euch Jamba empfohlen, Jamba ist eine veraltete Version und wird nicht weiterentwickelt.
 * Eine Portion an Geduld.
 
-***
 
 ### <p style="color:#a335ee">Wie fange ich jetzt genau an ?<p style="color:#a335ee">
 
