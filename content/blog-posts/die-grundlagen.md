@@ -30,5 +30,3 @@ weight = 10
 
 <iframe title="Termi Setup part2" width="760" height="540" src="https://www.youtube.com/embed/w6CcpfHyg2Y" frameborder="0" allow="accelerometer; 		autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
-***
