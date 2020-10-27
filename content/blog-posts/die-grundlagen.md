@@ -25,7 +25,7 @@ weight = 10
 
 #### <p style="color:#a335ee">Wie fange ich jetzt genau an ?<p style="color:#a335ee">
 
-* Zum Glück gibt es eine menge Talentierter Personen die dies mehr als Ausführlich gezeigt und beschrieben haben, hier wird eine Sammlung an Videos zu Verfügung gestellt.
+### Zum Glück gibt es eine menge Talentierter Personen die dies mehr als Ausführlich gezeigt und beschrieben haben, hier wird eine Sammlung an Videos zu Verfügung gestellt.
 
 #### Setup Videos: <button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none'){document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') 								.style.display='none'}">Anzeigen/Verstecken</button>
 
